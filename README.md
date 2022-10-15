@@ -1,2 +1,2 @@
 # Calculator-App
-### GUI Calculator builded app
+### GUI Calculator builded project aka first app
